@@ -11,7 +11,7 @@ a home for poems and stories
 <html>
   <head>
    <title> Hello Humans!</title>
-   link type="text/css" src+ http://lolani.github.io 
+   link type="text/css" src= http://lolani.github.io 
    </head>
    <body>
    <h1> Hello Humans!</h1>
